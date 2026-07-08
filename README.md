@@ -122,27 +122,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Project Screenshots
-
-### 🏠 Dashboard Page
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-### ➕ Add Student Page
-
-![Add Student](screenshots/add_student.png)
-
----
-
-### 📋 Student Records
-
-![Records](screenshots/records.png)
-
-
----
-
 ## 💡 What I Learned
 
 Through this project, I learned:
